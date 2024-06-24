@@ -1,0 +1,4 @@
+Cod, Nome, Rua, Cidade
+3, Julinelson, RuaM, Curitiba
+1, Eduardo, RuaP, Guarapuava
+2, Emily, RuaG, Porto
